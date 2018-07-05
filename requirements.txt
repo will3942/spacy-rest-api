@@ -1,0 +1,3 @@
+aiohttp
+spacy
+gunicorn
